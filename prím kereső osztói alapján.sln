@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prím kereső osztói alapján", "prím kereső osztói alapján\prím kereső osztói alapján.csproj", "{A1D78106-839B-4F19-8010-0CDE3FEBD485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D78106-839B-4F19-8010-0CDE3FEBD485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D78106-839B-4F19-8010-0CDE3FEBD485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D78106-839B-4F19-8010-0CDE3FEBD485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D78106-839B-4F19-8010-0CDE3FEBD485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
