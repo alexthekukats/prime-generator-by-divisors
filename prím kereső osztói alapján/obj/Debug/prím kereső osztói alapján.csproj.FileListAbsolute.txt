@@ -5,3 +5,9 @@ F:\Users\Alex\Documents\C# Progik\prím kereső osztói alapján\prím kereső o
 F:\Users\Alex\Documents\C# Progik\prím kereső osztói alapján\prím kereső osztói alapján\obj\Debug\prím kereső osztói alapján.pdb
 J:\uj_mappa\egyeb\C nyelv\C# Progik\prím kereső osztói alapján\prím kereső osztói alapján\obj\Debug\prím kereső osztói alapján.exe
 J:\uj_mappa\egyeb\C nyelv\C# Progik\prím kereső osztói alapján\prím kereső osztói alapján\obj\Debug\prím kereső osztói alapján.pdb
+D:\Alex\Dokkok\GitHub\prim_kereso_osztoi_alapjan\prím kereső osztói alapján\bin\Debug\prím kereső osztói alapján.exe
+D:\Alex\Dokkok\GitHub\prim_kereso_osztoi_alapjan\prím kereső osztói alapján\bin\Debug\prím kereső osztói alapján.pdb
+D:\Alex\Dokkok\GitHub\prim_kereso_osztoi_alapjan\prím kereső osztói alapján\obj\Debug\prím kereső osztói alapján.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\prim_kereso_osztoi_alapjan\prím kereső osztói alapján\obj\Debug\prím kereső osztói alapján.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\prim_kereso_osztoi_alapjan\prím kereső osztói alapján\obj\Debug\prím kereső osztói alapján.exe
+D:\Alex\Dokkok\GitHub\prim_kereso_osztoi_alapjan\prím kereső osztói alapján\obj\Debug\prím kereső osztói alapján.pdb

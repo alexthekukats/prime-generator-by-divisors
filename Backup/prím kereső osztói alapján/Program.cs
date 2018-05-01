@@ -18,7 +18,7 @@ namespace ConsoleApplication1
 
                 for (int i = 3; ; i++)
                 {
-                    for (int j = 0; j <= Math.Sqrt(i); j++)
+                    for (int j = 0; j <= osszdb; j++)
 
                             if (i % prim[j] != 0)
                             {
